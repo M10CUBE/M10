@@ -1,7 +1,7 @@
 ![M10 PACK](M10-atistic.png)
 
 
-M10 ecosystem is a comunity project and is the idea of a micro controller cube 10x10x10 cm. It is a hardware agnostic cube.
+M10 ecosystem is a community project and is the idea of a micro controller cube 10x10x10 cm. It is a hardware agnostic cube.
 In practice only one rule must fulfilled for us to say that this is an M10 device and that is:
 
 - External enclosure (PACK ) maximum dimensions X = 10cm, Y = 10cm, Z = Up to 10cm .
