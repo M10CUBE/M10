@@ -1,4 +1,6 @@
 ![M10 PACK](M10-atistic.png)
+
+
 M10 ecosystem is a comunity project and is the idea of a micro controller cube 10x10x10 cm. It is a hardware agnostic cube.
 In practice only one rule must fulfilled for us to say that this is an M10 device and that is:
 
@@ -9,7 +11,9 @@ To start thinking M10 we will introduce you our first M10 PLC incarnation which 
 has the following modules ready for fabrication. 
 
 1 – CPU module (contains Raspberry Pi 4). All modules share the same 40pin Raspberry bus powered by 24V.
+
 2 – DIO module. Eight opto isolated 24V inputs plus eight 24V outputs high side transistors.
+
 3 – DO module. Eight relays with 16 amps contact capability to power any heavy loads even 220V mains power appliances.
 
 The team is now preparing
