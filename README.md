@@ -9,14 +9,13 @@ There are some sub rules but everyone can build his own incarnation of M10. The 
 That is because for us re usability is the key for our M10 idea.
 To start thinking M10 we will introduce you our first M10 PLC incarnation which at the time of writing (05/05/2020)
 has the following modules ready for fabrication. 
+The idea for first M10 is to have the very popular Raspberry 4 module. All modules can plugged in as HAT using the 40 pin connector. So many can benefit right away.
 
 1 – CPU module (contains Raspberry Pi 4). All modules share the same 40pin Raspberry bus powered by 24V.
-
 2 – DIO module. Eight opto isolated 24V inputs plus eight 24V outputs high side transistors.
-
 3 – DO module. Eight relays with 16 amps contact capability to power any heavy loads even 220V mains power appliances.
 
-The team is now preparing
+The team is preparing...
 – AIO module.  That is 10V analog input and output
 - SNS module. That is a sensor board capable of monitoring the air for pollution
 - Multi M10-CPU PCB in place of Raspberry 4 with STM32F103 + ESP8266 +...
@@ -29,7 +28,12 @@ What applications can are suitable for M10 ecosystem? Well nearly everything. To
 - Environmental sensor reading for Air Quality monitoring.
 - LORAWAN
 - Drone controller
+- Greenhouse controller
+- Bulglar alarm controller
+- NAS or a set top box for your TV
 more to come..
+
+All depends on the modules you choose to plug in and your imagination to find applications that make sense.
 
 Used materials out of the self. DIY friendly. Think Green philosophy
 Soon we will publish the M10 road map plus PCBs, electronic circuits (Eagle and KiCAD) and 3D enclosures
