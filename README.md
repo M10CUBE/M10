@@ -25,15 +25,18 @@ The team is preparing...
 
 What applications can are suitable for M10 ecosystem? Well nearly everything. To name a few:
 - PLC controller ever expandable with IEC 61131-3 programming
-- Home Automation controller as a Master with, NODE-RED, OPENHAB, HOMEASSISTANT etc or as slave device for mains switching, sensor reading, with TASMOTA or any custom hardware
+- Home Automation controller as a Master with, Node-RED, openHAB, Home Assistant, Python etc or as slave device for mains switching, sensor reading, with TASMOTA or any custom hardware
 - Motor control
 - Environmental sensor reading for Air Quality monitoring.
 - LORAWAN
+- IOT
 - Drone controller
 - Greenhouse controller
 - Bulglar alarm controller
 - NAS or a set top box for your TV
-more to come..
+
+You can build almost everything just have the idea and make the board. The new PCB will be will be part of the M10-CUBE family and will be used from everybody.
+
 
 All depends on the modules you choose to plug in and your imagination to find applications that make sense.
 
