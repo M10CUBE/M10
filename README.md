@@ -4,7 +4,7 @@
 M10 ecosystem is a community project and is the idea of a micro controller cube 10x10x10 cm. It is a hardware agnostic cube.
 In practice only one rule must fulfilled for us to say that this is an M10 device and that is:
 
-- External enclosure (PACK ) maximum dimensions X = 10cm, Y = 10cm, Z = Up to 10cm .
+- External enclosure (CUBE) maximum dimensions X = 10cm, Y = 10cm, Z = Up to 10cm .
 There are some sub rules but everyone can build his own incarnation of M10. The idea is every M10 incarnation to be able to recognize its brother M10
 That is because for us re usability is the key for our M10 idea.
 To start thinking M10 we will introduce you our first M10 PLC incarnation which at the time of writing (05/05/2020)
