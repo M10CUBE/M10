@@ -6,9 +6,12 @@ In practice only one rule must fulfilled for us to say that this is an M10 devic
 
 - Used materials out of the self. 
 - DIY friendly. 
-- Think Green and reuse philosophy
+- Think Green and Reuse philosophy
 
 Soon we will publish PCBs, electronic circuits (Eagle and KiCAD) and 3D enclosures
 Applications and software will follow so to encourage everyone to get involved
 
-More on wiki section
+More on <a href="https://github.com/M10CUBE/M10/wiki">wiki</a> section
+
+
+
