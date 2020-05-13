@@ -29,14 +29,14 @@ What applications can are suitable for M10 ecosystem? Well nearly everything. To
 - Motor control
 - Environmental sensor reading for Air Quality monitoring.
 - LORAWAN
-- IOT
+- Industrial IoT applications
 - Drone controller
 - Greenhouse controller
 - Bulglar alarm controller
 - NAS or a set top box for your TV
 
-You can build almost everything just have the idea and make the board. The new PCB will be will be part of the M10-CUBE family and will be used from everybody.
-
+Of cource there are limits lke everything in life but you can build almost everything. Have the idea and make the board. The new PCB will be will be part of the M10-CUBE family and will be used from everybody.
+settings/profile
 
 All depends on the modules you choose to plug in and your imagination to find applications that make sense.
 
