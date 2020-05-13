@@ -1,4 +1,5 @@
-<p align="center"><img width="150" height="150" src="m10_artistic.jpg"></p>
+<p align="center"><img width="150" height="150" src="m10_artistic.jpg">
+  
 <img width="150" height="150" src="m10_digital_in_out.jpg"> <img width="150" height="150" src="m10_io_box.jpg">  <img width="150" height="150" src="m10_cpu_motherboard.jpg"> <img width="150" height="150" src="m10_cpu_box.jpg"> <img width="150" height="150" src="m10_relay.jpg">
 
 M10 ecosystem is a community project and is the idea of a micro controller cube 10x10x10 cm. It is a hardware agnostic cube.
