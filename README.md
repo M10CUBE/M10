@@ -1,4 +1,4 @@
-![M10 CUBE](m10_artistic.jpg) ![M10 CUBE](m10_digital_in_out.jpg) ![M10 CUBE](m10_io_box.jpg) 
+![M10 CUBE](m10_artistic.jpg) ![M10 CUBE](m10_digital_in_out.jpg) ![M10 CUBE](m10_io_box.jpg) ![M10 CUBE](m10_cpu_motherboard.jpg) ![M10 CUBE](m10_cpu_box.jpg) 
 
 
 M10 ecosystem is a community project and is the idea of a micro controller cube 10x10x10 cm. It is a hardware agnostic cube.
