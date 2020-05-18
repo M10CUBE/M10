@@ -8,7 +8,7 @@ In practice only one rule must fulfilled for us to say that this is an M10 devic
 - DIY friendly. 
 - Think Green and Reuse philosophy
 
-This project moved to http://gitlab/m10cube/m10
+This project moved to http://gitlab.com/m10cube/m10
 
 
 
