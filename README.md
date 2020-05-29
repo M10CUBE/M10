@@ -1,16 +1,22 @@
 <p align="center"><img src="banner_strip.jpg"></p>
 
-M10-CUBE ecosystem is a community project and is the idea of a micro controller cube 10x10x10 cm. It is a hardware agnostic cube.
-In practice only one rule must fulfilled for us to say that this is an M10 device:
+M10-CUBE community project is a Practical Form Factor Ecosystem. It is the idea of a micro controller cube 10x10x10 cm. It is a hardware agnostic cube.
 
-External enclosure (CUBE) maximum dimensions X = 10cm, Y = 10cm, Z = Up to 10cm .  Electronics inside must be powered by 24 DC or 220 AC from main supply.
+Only one rule must fulfilled to say that this is an M10CUBE device:
+- External enclosure (CUBE) maximum dimensions X = 10cm, Y = 10cm, Z = Up to 10cm .  Powered by 24 DC or Battery or POE or AC (220/110).
 
 Some sub rules must also apply but it is to verify that every M10-CUBE incarnation can communicate and stand side by side with the other.
+
 Directives:
 
-Used materials and modules out of the self if possible.
-DIY friendly.
-Think Green and Reuse philosophy
+- Used materials and modules out of the self if possible. 
+- DIY friendly. 
+- Think Green and Reuse philosophy
+
+PCBs, Schematics (Eagle and KiCAD), 3D enclosures and software are in constant developing.
+Applications will keep coming so to encourage everyone to get involved and to use the M10CUBE out of the box
+
+More on <a href="https://github.com/m10cube/m10/-/wikis/home">wiki</a> section
 
 This project moved to http://gitlab.com/m10cube/m10
 
