@@ -16,7 +16,7 @@ Directives:
 PCBs, Schematics (Eagle and KiCAD), 3D enclosures and software are in constant developing.
 Applications will keep coming so to encourage everyone to get involved and to use the M10CUBE out of the box
 
-More on <a href="https://github.com/m10cube/m10/-/wikis/home">wiki</a> section
+More on <a href="https://github.com/M10CUBE/M10/wiki">wiki</a> section
 
 This project moved to http://gitlab.com/m10cube/m10
 
