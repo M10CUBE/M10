@@ -18,7 +18,7 @@ Applications will keep coming so to encourage everyone to get involved and to us
 
 More on <a href="https://github.com/M10CUBE/M10/wiki">wiki</a> section
 
-This project moved to http://gitlab.com/m10cube/m10
+This project moved to <a href="http://gitlab.com/m10cube/m10">GitLab
 
 
 
