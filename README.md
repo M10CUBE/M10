@@ -1,6 +1,6 @@
 <p align="center"><img src="banner_strip.jpg"></p>
 
-This project moved to <a href="http://gitlab.com/m10cube/m10">GitLab
+This project moved to <a href="http://gitlab.com/m10cube/m10">GitLab</a>
 
 M10CUBE is a Practical Form Factor Ecosystem. It is the idea of a micro controller cube 10x10x10 cm.
 SCOPE:
