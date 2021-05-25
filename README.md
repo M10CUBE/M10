@@ -1,6 +1,7 @@
 <p align="center"><img src="banner_strip.jpg"></p>
 
-This project moved to <a href="http://gitlab.com/m10cube/m10">GitLab</a>
+This project moved to <a href="http://gitlab.com/m10cube/m10">GitLAB</a>
+And <a href="https://hackaday.io/project/171770-m10cube">HACKADAY</a>
 
 M10CUBE is a Practical Form Factor Ecosystem. It is the idea of a micro controller cube 10x10x10 cm.
 SCOPE:
