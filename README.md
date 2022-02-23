@@ -1,5 +1,15 @@
 <p align="center"><img src="banner_strip.jpg"></p>
 
+After a long time working endless hours on our WIZcube project and see it submitted to WIZnet contest.
+Two Makers, totally strangers between them  one in Greece me and other in Denmark Olivier Gaillard teamed to go for the WIZnet contest and submit the idea before closing.
+https://maker.wiznet.io/wiznet-ethernet-hat-contest/
+
+We shared the same dream to build something different. Something to be useful to the community as being OSHW project.
+It is a huge project and we must finish everything until the end of March.
+During the building period it will be more info on our web www.wizcube.eu
+
+<p align="center"><img src="cover.jpg"></p>
+
 This project moved to <a href="http://gitlab.com/m10cube/m10">GitLAB</a><p>
 And <a href="https://hackaday.io/project/171770-m10cube">HACKADAY</a>
 
