@@ -1,5 +1,6 @@
 <p align="center"><img src="banner_strip.jpg"></p>
 
+23/02/2022
 After a long time working endless hours on our WIZcube project and see it submitted to WIZnet contest.
 Two Makers, totally strangers between them  one in Greece me and other in Denmark Olivier Gaillard teamed to go for the WIZnet contest and submit the idea before closing.
 https://maker.wiznet.io/wiznet-ethernet-hat-contest/
